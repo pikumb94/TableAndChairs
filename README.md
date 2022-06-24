@@ -7,5 +7,5 @@ Test procedural generation of meshes through a resizable table actor:
 
 </br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/pikumb94/UE4_TF_DLDriving/master/Resources/SampleVideo.gif" width="800" height="450" />
+<img src="https://raw.githubusercontent.com/pikumb94/TableAndChairs/master/Resources/SampleVideo.gif" width="800" height="450" />
 </p>
