@@ -173,7 +173,7 @@ void ACustomPlayerController::ApplyPan()
 	if (!bOnPanningY && !bOnPanningX) {
 		float AbsPanX = FMath::Abs(mAccumulatePanX);
 		float AbsPanY = FMath::Abs(mAccumulatePanY);
-		if (AbsPanX != 0 && AbsPanY != 0)
+		//if (AbsPanX != 0 && AbsPanY != 0)
 			if (AbsPanX > AbsPanY)
 				bOnPanningX = true;
 			else
